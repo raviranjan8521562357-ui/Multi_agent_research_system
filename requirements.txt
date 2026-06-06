@@ -1,0 +1,58 @@
+# LLM
+mistralai
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+
+# LangGraph
+langgraph
+
+# Tavily Search
+tavily-python
+
+# Web Scraping
+beautifulsoup4
+requests
+lxml
+
+# Environment Variables
+python-dotenv
+
+# API Framework
+fastapi
+uvicorn
+
+# Data Validation
+pydantic
+
+# Vector Store (optional)
+faiss-cpu
+
+# Embeddings
+sentence-transformers
+
+# Token Counting
+tiktoken
+
+# Async Support
+aiohttp
+
+# Logging
+loguru
+rich
+
+# Utilities
+numpy
+pandas
+
+# Retry Mechanism
+tenacity
+
+# HTTP Requests
+httpx
+
+# LangSmith (optional)
+langsmith
